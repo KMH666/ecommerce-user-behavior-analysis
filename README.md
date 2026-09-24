@@ -35,8 +35,6 @@
 ├── visualization_plots.py          # 代码2：描述性统计与绘图
 ├── kmeans_clustering.py            # 代码3：K-Means 聚类建模
 ├── streamlit_app.py                # 代码4：Streamlit 交互式系统
-├── 论文.doc                        # 课程论文
-├── 论文内容稿件（含源代码）.md      # 论文 Markdown 稿件
 ├── requirements.txt
 └── README.md
 ```
